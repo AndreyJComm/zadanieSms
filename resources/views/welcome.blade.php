@@ -80,7 +80,7 @@
                     Laravel
                 </div>
                 <div class="links">
-                    <a href="{{ url(config('backpack.base.route_prefix', 'admin').'/login') }}">Login AdminPanel</a>
+                    <a href="{{ url(config('backpack.base.route_prefix', 'admin').'/') }}">Login AdminPanel</a>
                 </div>
             </div>
         </div>
